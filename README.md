@@ -1,15 +1,26 @@
-- 👋 Hi, I’m @shahar-gibly
-- 🎓 3rd-year Electrical Engineering student @ [Afeka]
-- 📡 Specializing in Computers & Communication
--⚡ Passionate about embedded systems, networking, and practical projects  
--🔧 Currently building hands-on projects to sharpen my skills and get industry-ready.
+# 👋 Hi, I’m Shahar Gibly  
 
-
-## 📫 Let's Connect
-
-- 📧 giblyshahar@email.com  
-- 💼 [LinkedIn](www.linkedin.com/in/shahar-gibly-26b58526a)
-- - 🌐 Portfolio: under construction (but GitHub is a good start 😉)
+🎓 3rd-year Electrical Engineering student @ [Afeka College of Engineering]  
+📡 Specializing in Computers & Communication  
+⚡ Passionate about embedded systems, networking, digital hardware, and hands-on chip design projects  
 
 ---
-“Code is poetry. Networking is music.”
+
+## 🔧 What I’m working on
+- Building Verilog and RTL design projects (e.g., [Full Adder](https://github.com/shahar-gibly/full-adder))  
+- Developing embedded systems with C/C++ and Python  
+- Exploring VLSI design and practical communication protocols  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Verilog, C/C++, Python, MATLAB  
+- **Tools:** Git/GitHub, Icarus Verilog, GTKWave, ModelSim, Linux, VS Code  
+- **Domains:** Embedded Systems, RTL Design, Networking, Digital Hardware  
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: giblyshahar@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahar-gibly-26b58526a)  
+- 🌐 Portfolio: check out my GitHub projects — constantly growing 🚀  
