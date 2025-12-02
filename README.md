@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shahar Gibly  
 
-🎓 3rd-year Electrical Engineering student @ [Afeka College of Engineering]  
+🎓 Forth-year Electrical Engineering student @ [Afeka College of Engineering]  
 📡 Specializing in Computers & Communication  
 ⚡ Passionate about embedded systems, networking, digital hardware, and hands-on chip design projects  
 
